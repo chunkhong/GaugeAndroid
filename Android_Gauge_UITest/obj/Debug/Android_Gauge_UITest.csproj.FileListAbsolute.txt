@@ -1,0 +1,35 @@
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android_Gauge_UITest.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android_Gauge_UITest.pdb
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.framework.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.framework.xml
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.xml
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\obj\Debug\Android_Gauge_UITest.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\obj\Debug\Android_Gauge_UITest.pdb
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.engine.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.engine.api.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\chunkhongc\documents\visual studio 2015\Projects\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.Helpers.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.Helpers.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\NUnit3.TestAdapter.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.engine.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.engine.api.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Mono.Cecil.Rocks.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android_Gauge_UITest.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android_Gauge_UITest.pdb
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android.Automation.Testing.Logic.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.framework.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Android.Automation.Testing.Logic.pdb
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\nunit.framework.xml
+E:\Android_Gauge_UITest\Android_Gauge_UITest\bin\Debug\Xamarin.UITest.xml
+E:\Android_Gauge_UITest\Android_Gauge_UITest\obj\Debug\Android_Gauge_UITest.csprojResolveAssemblyReference.cache
+E:\Android_Gauge_UITest\Android_Gauge_UITest\obj\Debug\Android_Gauge_UITest.dll
+E:\Android_Gauge_UITest\Android_Gauge_UITest\obj\Debug\Android_Gauge_UITest.pdb

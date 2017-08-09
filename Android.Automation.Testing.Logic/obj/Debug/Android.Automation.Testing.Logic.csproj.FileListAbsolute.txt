@@ -1,0 +1,9 @@
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\Android.Automation.Testing.Logic.dll
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\Android.Automation.Testing.Logic.pdb
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\nunit.framework.dll
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\Xamarin.UITest.dll
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\Xamarin.UITest.Helpers.dll
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\nunit.framework.xml
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\bin\Debug\Xamarin.UITest.xml
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\obj\Debug\Android.Automation.Testing.Logic.dll
+E:\Android_Gauge_UITest\Android.Automation.Testing.Logic\obj\Debug\Android.Automation.Testing.Logic.pdb
